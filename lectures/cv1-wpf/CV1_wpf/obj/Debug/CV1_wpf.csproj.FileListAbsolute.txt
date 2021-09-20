@@ -1,0 +1,15 @@
+C:\Users\panda\ownCloud\ŠKOLA\ZS2\ZP3CS\CV1_wpf\CV1_wpf\bin\Debug\CV1_wpf.exe.config
+C:\Users\panda\ownCloud\ŠKOLA\ZS2\ZP3CS\CV1_wpf\CV1_wpf\bin\Debug\CV1_wpf.exe
+C:\Users\panda\ownCloud\ŠKOLA\ZS2\ZP3CS\CV1_wpf\CV1_wpf\bin\Debug\CV1_wpf.pdb
+C:\Users\panda\ownCloud\ŠKOLA\ZS2\ZP3CS\CV1_wpf\CV1_wpf\obj\Debug\CV1_wpf.csprojAssemblyReference.cache
+C:\Users\panda\ownCloud\ŠKOLA\ZS2\ZP3CS\CV1_wpf\CV1_wpf\obj\Debug\MainWindow.g.cs
+C:\Users\panda\ownCloud\ŠKOLA\ZS2\ZP3CS\CV1_wpf\CV1_wpf\obj\Debug\App.g.cs
+C:\Users\panda\ownCloud\ŠKOLA\ZS2\ZP3CS\CV1_wpf\CV1_wpf\obj\Debug\CV1_wpf_MarkupCompile.cache
+C:\Users\panda\ownCloud\ŠKOLA\ZS2\ZP3CS\CV1_wpf\CV1_wpf\obj\Debug\CV1_wpf_MarkupCompile.lref
+C:\Users\panda\ownCloud\ŠKOLA\ZS2\ZP3CS\CV1_wpf\CV1_wpf\obj\Debug\MainWindow.baml
+C:\Users\panda\ownCloud\ŠKOLA\ZS2\ZP3CS\CV1_wpf\CV1_wpf\obj\Debug\CV1_wpf.g.resources
+C:\Users\panda\ownCloud\ŠKOLA\ZS2\ZP3CS\CV1_wpf\CV1_wpf\obj\Debug\CV1_wpf.Properties.Resources.resources
+C:\Users\panda\ownCloud\ŠKOLA\ZS2\ZP3CS\CV1_wpf\CV1_wpf\obj\Debug\CV1_wpf.csproj.GenerateResource.cache
+C:\Users\panda\ownCloud\ŠKOLA\ZS2\ZP3CS\CV1_wpf\CV1_wpf\obj\Debug\CV1_wpf.csproj.CoreCompileInputs.cache
+C:\Users\panda\ownCloud\ŠKOLA\ZS2\ZP3CS\CV1_wpf\CV1_wpf\obj\Debug\CV1_wpf.exe
+C:\Users\panda\ownCloud\ŠKOLA\ZS2\ZP3CS\CV1_wpf\CV1_wpf\obj\Debug\CV1_wpf.pdb

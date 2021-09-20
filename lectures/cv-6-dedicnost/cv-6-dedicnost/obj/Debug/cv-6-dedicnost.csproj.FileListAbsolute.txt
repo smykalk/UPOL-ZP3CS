@@ -1,0 +1,6 @@
+C:\Users\panda\ownCloud\ŠKOLA\ZS2\ZP3CS\repos\cv-6-dedicnost\cv-6-dedicnost\bin\Debug\cv-6-dedicnost.exe.config
+C:\Users\panda\ownCloud\ŠKOLA\ZS2\ZP3CS\repos\cv-6-dedicnost\cv-6-dedicnost\bin\Debug\cv-6-dedicnost.exe
+C:\Users\panda\ownCloud\ŠKOLA\ZS2\ZP3CS\repos\cv-6-dedicnost\cv-6-dedicnost\bin\Debug\cv-6-dedicnost.pdb
+C:\Users\panda\ownCloud\ŠKOLA\ZS2\ZP3CS\repos\cv-6-dedicnost\cv-6-dedicnost\obj\Debug\cv-6-dedicnost.csprojAssemblyReference.cache
+C:\Users\panda\ownCloud\ŠKOLA\ZS2\ZP3CS\repos\cv-6-dedicnost\cv-6-dedicnost\obj\Debug\cv-6-dedicnost.exe
+C:\Users\panda\ownCloud\ŠKOLA\ZS2\ZP3CS\repos\cv-6-dedicnost\cv-6-dedicnost\obj\Debug\cv-6-dedicnost.pdb

@@ -1,0 +1,15 @@
+C:\Users\panda\ownCloud\ŠKOLA\ZS2\ZP3CS\repos\trojuhelnikTest\trojuhelnikTest\bin\Debug\trojuhelnikTest.exe.config
+C:\Users\panda\ownCloud\ŠKOLA\ZS2\ZP3CS\repos\trojuhelnikTest\trojuhelnikTest\bin\Debug\trojuhelnikTest.exe
+C:\Users\panda\ownCloud\ŠKOLA\ZS2\ZP3CS\repos\trojuhelnikTest\trojuhelnikTest\bin\Debug\trojuhelnikTest.pdb
+C:\Users\panda\ownCloud\ŠKOLA\ZS2\ZP3CS\repos\trojuhelnikTest\trojuhelnikTest\obj\Debug\trojuhelnikTest.csprojAssemblyReference.cache
+C:\Users\panda\ownCloud\ŠKOLA\ZS2\ZP3CS\repos\trojuhelnikTest\trojuhelnikTest\obj\Debug\MainWindow.g.cs
+C:\Users\panda\ownCloud\ŠKOLA\ZS2\ZP3CS\repos\trojuhelnikTest\trojuhelnikTest\obj\Debug\App.g.cs
+C:\Users\panda\ownCloud\ŠKOLA\ZS2\ZP3CS\repos\trojuhelnikTest\trojuhelnikTest\obj\Debug\trojuhelnikTest_MarkupCompile.cache
+C:\Users\panda\ownCloud\ŠKOLA\ZS2\ZP3CS\repos\trojuhelnikTest\trojuhelnikTest\obj\Debug\trojuhelnikTest_MarkupCompile.lref
+C:\Users\panda\ownCloud\ŠKOLA\ZS2\ZP3CS\repos\trojuhelnikTest\trojuhelnikTest\obj\Debug\MainWindow.baml
+C:\Users\panda\ownCloud\ŠKOLA\ZS2\ZP3CS\repos\trojuhelnikTest\trojuhelnikTest\obj\Debug\trojuhelnikTest.g.resources
+C:\Users\panda\ownCloud\ŠKOLA\ZS2\ZP3CS\repos\trojuhelnikTest\trojuhelnikTest\obj\Debug\trojuhelnikTest.Properties.Resources.resources
+C:\Users\panda\ownCloud\ŠKOLA\ZS2\ZP3CS\repos\trojuhelnikTest\trojuhelnikTest\obj\Debug\trojuhelnikTest.csproj.GenerateResource.cache
+C:\Users\panda\ownCloud\ŠKOLA\ZS2\ZP3CS\repos\trojuhelnikTest\trojuhelnikTest\obj\Debug\trojuhelnikTest.csproj.CoreCompileInputs.cache
+C:\Users\panda\ownCloud\ŠKOLA\ZS2\ZP3CS\repos\trojuhelnikTest\trojuhelnikTest\obj\Debug\trojuhelnikTest.exe
+C:\Users\panda\ownCloud\ŠKOLA\ZS2\ZP3CS\repos\trojuhelnikTest\trojuhelnikTest\obj\Debug\trojuhelnikTest.pdb

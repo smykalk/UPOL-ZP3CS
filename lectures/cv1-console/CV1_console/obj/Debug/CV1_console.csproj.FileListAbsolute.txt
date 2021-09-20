@@ -1,0 +1,7 @@
+C:\Users\panda\ownCloud\ŠKOLA\ZS2\ZP3CS\CV1_console\CV1_console\bin\Debug\CV1_console.exe.config
+C:\Users\panda\ownCloud\ŠKOLA\ZS2\ZP3CS\CV1_console\CV1_console\bin\Debug\CV1_console.exe
+C:\Users\panda\ownCloud\ŠKOLA\ZS2\ZP3CS\CV1_console\CV1_console\bin\Debug\CV1_console.pdb
+C:\Users\panda\ownCloud\ŠKOLA\ZS2\ZP3CS\CV1_console\CV1_console\obj\Debug\CV1_console.csprojAssemblyReference.cache
+C:\Users\panda\ownCloud\ŠKOLA\ZS2\ZP3CS\CV1_console\CV1_console\obj\Debug\CV1_console.csproj.CoreCompileInputs.cache
+C:\Users\panda\ownCloud\ŠKOLA\ZS2\ZP3CS\CV1_console\CV1_console\obj\Debug\CV1_console.exe
+C:\Users\panda\ownCloud\ŠKOLA\ZS2\ZP3CS\CV1_console\CV1_console\obj\Debug\CV1_console.pdb

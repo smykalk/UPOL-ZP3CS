@@ -1,0 +1,26 @@
+﻿<Window x:Class="DomaciRozpocet.FilterWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DomaciRozpocet"
+        mc:Ignorable="d"
+        Title="Filtrovat záznamy" Height="200" Width="200" ShowInTaskbar="False" ResizeMode="NoResize" WindowStartupLocation="CenterOwner">
+    <Grid>
+        <ComboBox x:Name="cbFilterSelection" Margin="20,20,20,120" IsReadOnly="True" Visibility="Visible" SelectionChanged="cbFilterSelection_SelectionChanged">
+            <ComboBoxItem Content="Příjmy"/>
+            <ComboBoxItem Content="Výdaje"/>
+            <ComboBoxItem Content="Osoba"/>
+            <ComboBoxItem Content="Důvod"/>
+            <ComboBoxItem Content="Datum - od-do"/>
+            <ComboBoxItem Content="Částka - &gt;="/>
+            <ComboBoxItem Content="Částka - &lt;="/>
+        </ComboBox>
+        <TextBox x:Name="tbValue" Text="" Margin="20,70,20,70" Visibility="Hidden"/>
+        <Label x:Name="lblFrom" Content="Od:" Margin="15,52,130,82" Visibility="Hidden"/>
+        <DatePicker x:Name="dpFrom" Margin="45,55,20,85" Visibility="Hidden"/>
+        <Label x:Name="lblTo" Content="Do:" Margin="15,88,130,47" Visibility="Hidden"/>
+        <DatePicker x:Name="dpTo" Margin="45,90,20,50" Visibility="Hidden"/>
+        <Button x:Name="btnFilter" Content="Filtrovat" Margin="20,124,20,20" Click="btnFilter_Click" IsEnabled="False" IsDefault="True"/>
+    </Grid>
+</Window>

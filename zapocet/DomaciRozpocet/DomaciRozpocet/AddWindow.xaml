@@ -1,0 +1,22 @@
+﻿<Window x:Name="AddWindo" x:Class="DomaciRozpocet.AddWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DomaciRozpocet"
+        mc:Ignorable="d"
+        Title="Přidat záznam" Height="250" Width="250" WindowStartupLocation="CenterOwner" WindowStyle="SingleBorderWindow" ResizeMode="NoResize" ShowInTaskbar="False">
+    <Grid>
+        <RadioButton Name="radioIncome" Margin="45,10,130,180" IsChecked="True">Příjem</RadioButton>
+        <RadioButton Name ="radioExpense" Margin="135,10,40,180">Výdaj</RadioButton>
+        <Label Content="Osoba:" HorizontalAlignment="Left" Margin="10,40,0,0" VerticalAlignment="Top"/>
+        <Label Content="Datum:" HorizontalAlignment="Left" Margin="10,69,0,0" VerticalAlignment="Top"/>
+        <Label Content="Důvod:" HorizontalAlignment="Left" Margin="10,101,0,0" VerticalAlignment="Top"/>
+        <Label Content="Částka:" HorizontalAlignment="Left" Margin="10,132,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="tbPerson" HorizontalAlignment="Left" Margin="62,44,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="150"/>
+        <DatePicker x:Name="dpDate" HorizontalAlignment="Left" Margin="62,72,0,0" VerticalAlignment="Top" Width="150" IsTodayHighlighted="True" SelectedDateFormat="Long" FirstDayOfWeek="Monday"/>
+        <TextBox x:Name="tbReason" HorizontalAlignment="Left" Margin="62,105,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="150"/>
+        <TextBox x:Name="tbAmount" HorizontalAlignment="Left" Margin="62,136,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="150"/>
+        <Button x:Name="btnAdd" Content="Přidat" HorizontalAlignment="Left" Margin="14,171,0,0" VerticalAlignment="Top" Width="198" Height="30" Click="btnAdd_Click" IsDefault="True"/>
+    </Grid>
+</Window>

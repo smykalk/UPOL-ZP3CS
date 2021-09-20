@@ -1,0 +1,24 @@
+﻿<Window x:Class="CV1_wpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CV1_wpf"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="300" Width="220">
+    <Grid>
+        <Label x:Name="jmeno" Content="Jmeno:" HorizontalAlignment="Left" Margin="10,14,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.458,0.516"/>
+        <Label x:Name="ulice" Content="Ulice:" HorizontalAlignment="Left" Margin="10,42,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="jmeno_tb" HorizontalAlignment="Left" Height="23" Margin="63,14,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Button Content="Vypiš" HorizontalAlignment="Left" Margin="10,138,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        <Label x:Name="psc" Content="PSČ:" HorizontalAlignment="Left" Margin="10,70,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="mesto" Content="Město:" HorizontalAlignment="Left" Margin="10,98,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="ulice_tb" HorizontalAlignment="Left" Height="23" Margin="63,42,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="psc_tb" HorizontalAlignment="Left" Height="23" Margin="63,70,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="mesto_tb" HorizontalAlignment="Left" Height="23" Margin="63,98,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="jmeno_vypis" Content="" HorizontalAlignment="Left" Margin="10,175,0,0" VerticalAlignment="Top" Width="173"/>
+        <Label x:Name="ulice_vypis" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,206,0,0" Width="173"/>
+        <Label x:Name="pscmesto_vypis" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,237,0,0" Width="173"/>
+
+    </Grid>
+</Window>

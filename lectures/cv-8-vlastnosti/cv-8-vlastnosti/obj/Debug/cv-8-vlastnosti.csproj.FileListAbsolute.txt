@@ -1,0 +1,6 @@
+C:\Users\panda\ownCloud\ŠKOLA\ZS2\ZP3CS\repos\cv-8-vlastnosti\cv-8-vlastnosti\bin\Debug\cv-8-vlastnosti.exe.config
+C:\Users\panda\ownCloud\ŠKOLA\ZS2\ZP3CS\repos\cv-8-vlastnosti\cv-8-vlastnosti\bin\Debug\cv-8-vlastnosti.exe
+C:\Users\panda\ownCloud\ŠKOLA\ZS2\ZP3CS\repos\cv-8-vlastnosti\cv-8-vlastnosti\bin\Debug\cv-8-vlastnosti.pdb
+C:\Users\panda\ownCloud\ŠKOLA\ZS2\ZP3CS\repos\cv-8-vlastnosti\cv-8-vlastnosti\obj\Debug\cv-8-vlastnosti.csprojAssemblyReference.cache
+C:\Users\panda\ownCloud\ŠKOLA\ZS2\ZP3CS\repos\cv-8-vlastnosti\cv-8-vlastnosti\obj\Debug\cv-8-vlastnosti.exe
+C:\Users\panda\ownCloud\ŠKOLA\ZS2\ZP3CS\repos\cv-8-vlastnosti\cv-8-vlastnosti\obj\Debug\cv-8-vlastnosti.pdb

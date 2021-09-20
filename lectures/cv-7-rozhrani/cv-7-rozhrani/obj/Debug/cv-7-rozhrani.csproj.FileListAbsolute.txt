@@ -1,0 +1,6 @@
+C:\Users\panda\ownCloud\ŠKOLA\ZS2\ZP3CS\repos\cv-7-rozhrani\cv-7-rozhrani\bin\Debug\cv-7-rozhrani.exe.config
+C:\Users\panda\ownCloud\ŠKOLA\ZS2\ZP3CS\repos\cv-7-rozhrani\cv-7-rozhrani\bin\Debug\cv-7-rozhrani.exe
+C:\Users\panda\ownCloud\ŠKOLA\ZS2\ZP3CS\repos\cv-7-rozhrani\cv-7-rozhrani\bin\Debug\cv-7-rozhrani.pdb
+C:\Users\panda\ownCloud\ŠKOLA\ZS2\ZP3CS\repos\cv-7-rozhrani\cv-7-rozhrani\obj\Debug\cv-7-rozhrani.csprojAssemblyReference.cache
+C:\Users\panda\ownCloud\ŠKOLA\ZS2\ZP3CS\repos\cv-7-rozhrani\cv-7-rozhrani\obj\Debug\cv-7-rozhrani.exe
+C:\Users\panda\ownCloud\ŠKOLA\ZS2\ZP3CS\repos\cv-7-rozhrani\cv-7-rozhrani\obj\Debug\cv-7-rozhrani.pdb
